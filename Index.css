@@ -24,7 +24,7 @@ body
 {
     position: fixed;
 
-    filter: brightness(40%);
+    filter: brightness(25%);
 }
 
 #container
